@@ -1,8 +1,7 @@
-**THIS IS WHAT I'VE LEARNED SO FAR AT BLOC:**
+**THINGS I HAVE LEARNED AT BLOC SO FAR:**
 
-1. Terminal Commands
+1. Command Line
 2. HTML
 3. CSS
-4. Github Basics
-
+4. Git
 
