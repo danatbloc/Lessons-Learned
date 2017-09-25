@@ -1,0 +1,7 @@
+**THINGS I HAVE LEARNED AT BLOC SO FAR:**
+
+1. Command Line
+2. HTML
+3. CSS
+4. Git
+
